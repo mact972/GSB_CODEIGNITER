@@ -16,11 +16,11 @@ a {
 .footer
 {
 
-	height: 30px;
+	height: 87px;
 	width: 100%;
 	background-color: black;
 	color: white;
-	margin-top: 5%; 
+	margin-top: 15%; 
 }
 
 .form{
@@ -28,10 +28,7 @@ a {
 	margin: center;
 }
 
-.bu{
 
-	margin-bottom: 2px;
-}
 
 .h{
 
@@ -42,6 +39,32 @@ a {
 
 	height: 5%;
 	width: 5%;
-	margin-left: 13%;
-	margin-top: -3%;
+}
+
+.b{
+
+	margin-top: 3%;
+}
+
+.ti{
+
+	margin-left: 40%;
+}
+
+.lo{
+
+	margin-left: 39%;
+}
+
+.mp{
+
+	margin-top: 7%;
+	margin-left: -16.5%;
+	width: 16.5%;
+
+}
+
+.titi{
+
+	text-align: center;
 }
